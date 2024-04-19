@@ -1,0 +1,15 @@
+bs4
+pyttsx3
+scipy
+SpeechRecognition
+datetime
+wikipedia 
+pyjokes
+pynput
+requests
+pyautogui
+operators
+tk
+pygame
+winshell
+googletrans
